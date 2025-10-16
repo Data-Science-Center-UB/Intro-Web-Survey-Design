@@ -1,4 +1,4 @@
-# Good Planing, Better Survey Data: Introduction to Web Survey Design
+# Good Planning, Better Survey Data: Introduction to Web Survey Design
 
 These open educational resources (OER) provide training materials for an introductory workshop on web surey, tailored to researchers from all disciplines and career stages. The materials are intended for participants with little or no prior experience in questionnaire design.
 
