@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1076767222.svg)](https://doi.org/10.5281/zenodo.17366460)
 
-These open educational resources (OER) provide training materials for an introductory workshop on web surey, tailored to researchers from all disciplines and career stages. The materials are intended for participants with little or no prior experience in questionnaire design.
+These open educational resources (OER) provide training materials for an introductory workshop on web surveys, tailored to researchers from all disciplines and career stages. The materials are intended for participants with little or no prior experience in questionnaire design.
 
 The workshop has been delivered and evaluated twice in two 6 hours long online training sessions and follows a lecture-style format with embedded interactive exercises.
 
